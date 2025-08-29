@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gh-user-guide/gradient-assets/main/gradient.svg" width="100%" height="200">
-</p>
+![gradient](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🌈%20Gradient%20Banner&fontSize=44&fontAlignY=35)
