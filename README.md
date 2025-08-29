@@ -1,2 +1,2 @@
-![gradient](./my-gradient.png)
+![gradient](./ossimg.png)
 
