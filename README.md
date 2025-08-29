@@ -1,2 +1,2 @@
-![gradient](./ossimg.png)
+![gradient](./OSS-banner.png)
 
